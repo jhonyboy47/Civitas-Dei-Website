@@ -1,2 +1,2 @@
-# civitas-dei.github.io
-Civitas Dei Website!
+# Civitas Dei Project Website
+
